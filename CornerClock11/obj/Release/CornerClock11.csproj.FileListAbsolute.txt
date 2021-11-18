@@ -1,0 +1,11 @@
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\bin\Release\CornerClock11.exe.config
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\bin\Release\CornerClock11.exe
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\bin\Release\CornerClock11.pdb
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.Form1.resources
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.Properties.Resources.resources
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.csproj.GenerateResource.cache
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.exe
+C:\Users\charl\Documents\WPF_Projects\CornerClock11\CornerClock11\obj\Release\CornerClock11.pdb
